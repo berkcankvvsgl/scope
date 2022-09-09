@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scope2", "scope2\scope2.csproj", "{B35D9C0F-0A53-42ED-A7CD-EB76C61CF0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetRandom", "TargetRandom\TargetRandom.csproj", "{40293B4A-9440-443A-83FC-EB32EAE5ACD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35D9C0F-0A53-42ED-A7CD-EB76C61CF0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35D9C0F-0A53-42ED-A7CD-EB76C61CF0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35D9C0F-0A53-42ED-A7CD-EB76C61CF0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35D9C0F-0A53-42ED-A7CD-EB76C61CF0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40293B4A-9440-443A-83FC-EB32EAE5ACD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40293B4A-9440-443A-83FC-EB32EAE5ACD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40293B4A-9440-443A-83FC-EB32EAE5ACD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40293B4A-9440-443A-83FC-EB32EAE5ACD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B135415C-54FB-41B4-8DFC-C4240C8DC07B}
+	EndGlobalSection
+EndGlobal
